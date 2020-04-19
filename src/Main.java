@@ -1,5 +1,5 @@
 public class Main {
     public static void main (String [] args){
-        System.out.println("Probando Git con Ariana");
+        System.out.println("Probando Git con Romina y Ariana");
     }
 }
